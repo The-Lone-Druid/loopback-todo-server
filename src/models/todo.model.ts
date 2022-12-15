@@ -20,6 +20,12 @@ export class Todo extends Entity {
   })
   isComplete?: boolean;
 
+  @property({
+    type: 'string',
+    required: true,
+  })
+  category?: string;
+
   // Define well-known properties here
 
   // Indexer property to allow additional data

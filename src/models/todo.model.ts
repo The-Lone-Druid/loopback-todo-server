@@ -17,6 +17,7 @@ export class Todo extends Entity {
 
   @property({
     type: 'boolean',
+    required: true,
   })
   isComplete?: boolean;
 

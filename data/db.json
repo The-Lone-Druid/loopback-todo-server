@@ -1,16 +1,14 @@
 {
   "ids": {
-    "Todo": 8
+    "Todo": 7
   },
   "models": {
     "Todo": {
-      "1": "{\"title\":\"Take over the galaxy\",\"desc\":\"MWAHAHAHAHAHAHAHAHAHAHAHAHAMWAHAHAHAHAHAHAHAHAHAHAHAHA\",\"id\":1}",
-      "2": "{\"title\":\"destroy alderaan\",\"desc\":\"Make sure there are no survivors left!\",\"id\":2}",
-      "3": "{\"title\":\"play space invaders\",\"desc\":\"Become the very best!\",\"id\":3}",
-      "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}",
-      "5": "{\"title\":\"Changed Test Todo\",\"isComplete\":false,\"additionalProp1\":{},\"id\":5}",
-      "6": "{\"title\":\"Added new todo\",\"isComplete\":false,\"additionalProp1\":{},\"id\":6}",
-      "7": "{\"title\":\"Mastering Loopback 4\",\"isComplete\":false,\"id\":7}"
+      "2": "{\"title\":\"Test Todo\",\"isComplete\":true,\"category\":\"event\",\"description\":\"Testing purpouse\",\"id\":2}",
+      "3": "{\"title\":\"Massive Todos\",\"isComplete\":false,\"category\":\"goal\",\"description\":\"Massive Todos\",\"id\":3}",
+      "4": "{\"title\":\"Testing massive todos\",\"isComplete\":false,\"category\":\"goal\",\"description\":\"This is my goal\",\"id\":4}",
+      "5": "{\"title\":\"Attending RBI Daily Scrum\",\"isComplete\":false,\"category\":\"event\",\"description\":\"Attending RBI Daily Scrum\",\"id\":5}",
+      "6": "{\"title\":\"Learning Loopback 4\",\"isComplete\":false,\"category\":\"task\",\"description\":\"Learning Loopback 4\",\"id\":6}"
     }
   }
 }
